@@ -24,13 +24,13 @@ VS Code • Android Studio • Canva • Figma • GitHub • Docker *(Learning)
 
 ## Featured Projects
 
-### 🛒 Aeramic – Full-Stack E-Commerce Platform
+### Aeramic – Full-Stack E-Commerce Platform
 A complete e-commerce platform built with PHP and MySQL featuring user authentication, shopping cart, Stripe payment integration, product management, and an administrative dashboard.
 
-### 🏠 Rental Management API
+### Rental Management API
 RESTful backend developed with FastAPI and MongoDB, implementing authentication, modular architecture, property management, and booking functionality.
 
-### 🎮 VoxelSurvival
+### VoxelSurvival
 A multiplayer voxel-based sandbox game developed in Unity using C#, featuring procedural terrain generation, chunk loading, crafting mechanics, and Mirror networking.
 
 ---
