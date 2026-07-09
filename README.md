@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Umar Abdul Vaasay
 
-<!--
-**AbdulVaasay/AbdulVaasay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Computer Science student.
 
-Here are some ideas to get you started:
+I enjoy building scalable APIs, backend systems, and web applications using Python and FastAPI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning
+
+AWS
+
+Docker
+
+Kubernetes
+
+Cybersecurity
+
+Open to
+
+Internships
+
+Backend roles
+
+Cloud Engineering
