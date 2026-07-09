@@ -1,4 +1,4 @@
-# Hi, I'm Umar Abdul Vaasay 👋
+# Hi, I'm Umar Abdul Vaasay
 
 Backend-focused Computer Science student with experience in designing and developing scalable web applications, RESTful APIs, and database-driven systems. I enjoy solving real-world problems through clean architecture, efficient backend development, and continuous learning.
 
@@ -6,7 +6,7 @@ Currently expanding my expertise in Cloud Computing, System Design, and Cybersec
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 Python • PHP • C++ • JavaScript • SQL • HTML • CSS
@@ -15,17 +15,14 @@ Python • PHP • C++ • JavaScript • SQL • HTML • CSS
 FastAPI • Flask • REST APIs • Session Authentication
 
 ### Databases
-MySQL • MongoDB
+MySQL • MongoDB • Firebase
 
 ### Tools & Technologies
-Git • GitHub • Postman • Bootstrap • Docker *(Learning)*
-
-### Platforms
-Linux • Shopify • WordPress
+VS Code • Android Studio • Canva • Figma • GitHub • Docker *(Learning)*
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🛒 Aeramic – Full-Stack E-Commerce Platform
 A complete e-commerce platform built with PHP and MySQL featuring user authentication, shopping cart, Stripe payment integration, product management, and an administrative dashboard.
@@ -38,7 +35,7 @@ A multiplayer voxel-based sandbox game developed in Unity using C#, featuring pr
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Cloud Computing (AWS)
 - Docker & Kubernetes
@@ -49,7 +46,7 @@ A multiplayer voxel-based sandbox game developed in Unity using C#, featuring pr
 
 ---
 
-## 🎯 Career Interests
+## Career Interests
 
 - Backend Engineering
 - Cloud Engineering
@@ -59,7 +56,7 @@ A multiplayer voxel-based sandbox game developed in Unity using C#, featuring pr
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 📧 Email: **vsydogr@gmail.com**  
 
